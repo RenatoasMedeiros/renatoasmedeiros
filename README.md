@@ -3,7 +3,7 @@
 <hr>
 <h4 aligh="center">I've been cooding for a couple years, and with that I found a passion for development, mainly web development.</h4>
 
-- 🌱 I’m currently learning **GoLang**
+- 🌱 I’m currently learning **GoLang** (or c++, or zig, or rust..)
 
 - 📫 How to reach me **contact@renatomedeiros.pt**
 - 🤝 Open to colaborate in your project! (maybe)
